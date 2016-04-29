@@ -1,0 +1,2 @@
+# jump61
+Pure strategy game that can be played against a computer, another person, or computer against computer. Players take turns adding a spot to any square that is not the opponent's color. If a square is "overfull" (contains five or more spots), each neighbor of the overfull square gains one spot and the overfull square loses a spot. The neighboring squares is then marked with the player's color. The game ends when one player's color covers the board.
